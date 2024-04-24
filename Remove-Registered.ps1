@@ -1,6 +1,6 @@
 #SYNOPSIS: Elimiar entradas duplicadas como "Microsoft Entra Registered"
 #DESCRIPTION: 
-Eliminar entradas de dispositivos "Microsoft Entra Registered" de dispositivos que disponen de una entrada "Hybrid Joined" o "AD Joined" solventando la duplicidad de los dispositivos.
+#Eliminar entradas de dispositivos "Microsoft Entra Registered" de dispositivos que disponen de una entrada "Hybrid Joined" o "AD Joined" solventando la duplicidad de los dispositivos.
 #AUTOR: Ismael Morilla Orellana
 #VERSION: 1.0
 #DATE: 06/04/2024
