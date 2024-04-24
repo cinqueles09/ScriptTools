@@ -10,3 +10,7 @@ En esta caja de herramientas, encontrarás los siguientes scripts:
 3. **Convert-AzureAdObjectIdToSid**: Proporciona la traducción del objectID de un usuario al SID correspondiente.
 
 4. **ConvertSidToAzureObjectId**: Al ingresar el SID de un usuario, te proporciona información sobre a qué objeto pertenece.
+
+5. **Remitentes Seguros**: Añade una dirección como remitente seguro a todos los correos de los usuarios de la compañia
+
+6. **Remove-HashID**: Presenta dos métodos para eliminar de forma masiva hash ID de Intune
